@@ -1,0 +1,2 @@
+# eslint-config-ailys-typescript
+
