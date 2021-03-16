@@ -9,7 +9,7 @@ module.exports = {
   extends: [
     "eslint:recommended",
     "standard"
-  ].map(require),
+  ],
   overrides: [
     {
       files: ["*.ts", "*.tsx"],
